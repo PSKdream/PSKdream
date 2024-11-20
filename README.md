@@ -19,7 +19,7 @@ GitHub Profile README Generator : https://rahuldkjain.github.io/gh-profile-readm
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pskdream&label=Profile%20views&color=0e75b6&style=flat" alt="pskdream" /> </p>
 
-- 🌱 I’m currently learning **AI, ML**
+- 🌱 I’m currently learning **DevOps, AI/ML**
 
 - 📫 How to reach me **p.samothai@outlook.com**
 
